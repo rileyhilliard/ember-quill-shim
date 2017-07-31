@@ -3,7 +3,7 @@
     'use strict';
 
     return {
-      'default': self['quill'],
+      'default': self['Quill'],
       __esModule: true,
     };
   }
