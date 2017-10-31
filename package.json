@@ -1,17 +1,22 @@
 {
   "name": "ember-quill-shim",
   "version": "0.0.3",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "ember-cli shim for quill.js",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember",
+    "quill",
+    "emberjs",
+    "quilljs",
+    "shim"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Swastik Agarwal",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/swastik/ember-quill-shim",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
